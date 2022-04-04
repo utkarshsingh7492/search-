@@ -22,7 +22,7 @@ cout<<"Enter the size of the array";
 cin>>n;
 cout<<"Enter the array element";
  for(int i=0; i < n; i++ )
-   cinn>>arr[i];
+   cin>>arr[i];
 int key;
 cout<<"Enter the element to be found";
 cin>>key;
